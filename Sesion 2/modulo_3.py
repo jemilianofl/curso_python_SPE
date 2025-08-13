@@ -121,5 +121,3 @@ print(f"Tiempo de ejecución: {fin - inicio} segundos")
 # Un algoritmo más avanzado y mucho más eficiente. Funciona con el principio de 
 # "divide y vencerás": divide la lista en mitades, ordena cada una de ellas de forma 
 # recursiva y luego las fusiona.
-
-def mergf
